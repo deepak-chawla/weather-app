@@ -26,6 +26,7 @@ export class AppComponent implements OnInit {
   }
 
   onSubmit() {
+    console.log(this.cityName)
     this.getWeatherData(this.cityName)
   }
 
