@@ -5,4 +5,4 @@ export const environment = {
   XRapidAPIHostValue: 'xxxx',
   XRapidAPIKeyName: 'xxxx',
   XRapidAPIKeyValue: 'xxxx',
-};
+}; 
